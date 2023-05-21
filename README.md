@@ -1,1 +1,1 @@
-# cryptoGameLanding
+https://klimstepuchev.github.io/cryptoGameLanding/
